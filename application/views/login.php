@@ -33,7 +33,7 @@
   					<?=img(array('src'=>'assets/img/aon.png?v=2','style'=>'width:100%'))?>
 	    		</div>	
 					<div class="panel-footer">
-						ADirect - Aon | Gunung Sewu EES Data Entry System 2016
+						ADirect - Aon | Gunung Sewu EES Data Entry System 2017
 	    		</div>	
 					<div class="panel-body">
 						<?=validation_errors()?>
@@ -59,7 +59,7 @@
 	<?=form_close()?>
   <footer class="footer">
     <div class="container">
-      <p class="text-muted">Copyright &copy; 2016 ADirect</p>
+      <p class="text-muted">Copyright &copy; 2017 ADirect</p>
     </div>
   </footer>
 </body>
